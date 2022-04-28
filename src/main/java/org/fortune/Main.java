@@ -1,4 +1,4 @@
-package org.example;
+package org.fortune;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
